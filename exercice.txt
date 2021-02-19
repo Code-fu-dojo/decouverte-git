@@ -4,7 +4,7 @@ Ici le fichier que vous devez modifier :
 Cloe :
 Olivier : 
 Baptiste : 
-Enzo :
+Enzo : Bonjour et bienvenue à la caisse express, avez vous un sac caba ? 
 Ian-Yves : 
 Melodie : Aloha les oustitis
 Julia :
